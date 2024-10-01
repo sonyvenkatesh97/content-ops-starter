@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Cyble powered
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Cyble helps enterprises of all sizes, federal bodies, and individuals stay
+      ahead of cybercriminals with cutting-edge
+
+      AI-driven cybersecurity platforms
     actions:
       - label: Get started
         altText: ''

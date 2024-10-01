@@ -324,7 +324,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Award-winning cyber threat intelligence platform
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach

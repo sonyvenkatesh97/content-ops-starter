@@ -60,7 +60,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Cyble leverages proprietary technology to power its cutting-edge
+      cybersecurity platforms, setting a new standard in proactive threat
+      detection
     items:
       - type: FeaturedItem
         title: 500k

@@ -288,11 +288,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Request a personalized demo and discover how our advanced threat
+      intelligence can empower your organization’s cybersecurity strategy.
+      Witness the integration of our solutions with your existing security tools
+      and understand how we can help you navigate the complex landscape of cyber
+      threats
     actions: []
     media:
       title: Title of the video

@@ -239,7 +239,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Cyble Research blogs
     text: >
       Stay updated with CRIL’s latest insights into the evolving cyber threat
       landscape. Our blogs offer expert analysis on emerging vulnerabilities and

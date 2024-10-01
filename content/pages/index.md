@@ -329,8 +329,8 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Designed to provide enhanced security through real-time intelligence and
+      threat detection.
     actions:
       - label: Get started
         url: /

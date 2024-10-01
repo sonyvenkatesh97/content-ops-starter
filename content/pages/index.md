@@ -411,10 +411,10 @@ sections:
       - title: Cyble named the Leader
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cyble named the Leader in the Frost Radar™️ : Cyber Threat
+          Intelligence, 2024. Schedule a Demo to find out what makes us the
+          differentiators in the CTI space
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters

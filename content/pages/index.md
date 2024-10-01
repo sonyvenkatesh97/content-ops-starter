@@ -281,7 +281,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: See Cyble in Action
       color: text-dark
       styles:
         self:
